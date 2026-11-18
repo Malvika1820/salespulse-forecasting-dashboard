@@ -1,14 +1,14 @@
 
 #  SalesPulse — Sales Forecasting & Pipeline Analytics Dashboard
 
-A full-featured, web-based **Sales Forecasting & Pipeline Analytics Dashboard** built for real-time revenue intelligence, funnel diagnostics, and interactive scenario modeling[cite: 14].
+A full-featured, web-based **Sales Forecasting & Pipeline Analytics Dashboard** built for real-time revenue intelligence, funnel diagnostics, and interactive scenario modeling.
 
  **Live Demo:** `https://github.com/Malvika1820/salespulse-forecasting-dashboard/tree/main`
 
 ---
 
 ##  Project Overview
-Traditional sales forecasting relies heavily on static spreadsheets and manual assumptions, making it difficult to detect stalled deals or accurately project quarterly revenue[cite: 14]. **SalesPulse** solves this by combining multi-user session authentication, universal CRM/Kaggle CSV ingestion, probability-weighted pipeline analytics, time-series linear regression forecasting, and automated AI diagnostic alerts inside a zero-latency browser application[cite: 14].
+Traditional sales forecasting relies heavily on static spreadsheets and manual assumptions, making it difficult to detect stalled deals or accurately project quarterly revenue[cite: 14]. **SalesPulse** solves this by combining multi-user session authentication, universal CRM/Kaggle CSV ingestion, probability-weighted pipeline analytics, time-series linear regression forecasting, and automated AI diagnostic alerts inside a zero-latency browser application.
 
 ---
 
@@ -55,5 +55,5 @@ Traditional sales forecasting relies heavily on static spreadsheets and manual a
 * **Raziya** — `20241CSD3001`
 * **Tejasvini** — `20241CSD3002`
 
-**Program:** B.Tech in Computer Science & Engineering (Data Science) — Course Code: `CSS7102` (Batch: `CSD25`)[cite: 2, 24]  
-**Under the Guidance of:** Ms. P. Sai Sudha, Assistant Professor, School of Computer Science & Engineering[cite: 2, 24]
+**Program:** B.Tech in Computer Science & Engineering (Data Science) — Course Code: `CSS7102` (Batch: `CSD25`)  
+**Under the Guidance of:** Ms. P. Sai Sudha, Assistant Professor, School of Computer Science & Engineering

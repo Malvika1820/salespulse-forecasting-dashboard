@@ -13,16 +13,16 @@ Traditional sales forecasting relies heavily on static spreadsheets and manual a
 ---
 
 ##  Key Features
-* ** Multi-User Authentication & Session Persistence:** Split-screen Sign In / Sign Up portal with dynamic user profile personalization (displays logged-in user's full name, email, and avatar initials via `localStorage`)[cite: 14].
-* ** Universal CSV Ingestion & Regex Schema Mapping:** Automatically parses and normalizes external CSV exports from **Salesforce**, **Maven Analytics**, and **Kaggle** using PapaParse and regular-expression column matching[cite: 14]. Includes a built-in **165-deal B2B enterprise dataset** for instant demonstration[cite: 14].
-* ** AI Executive Insights Engine:** Automatically scans pipeline health to flag quota attainment pacing, high-value whale opportunities, and deals aging over 60 days[cite: 14].
-* **🎛️ Interactive What-If Simulation Sliders:** Adjust conversion probabilities across funnel stages (`Qualification`, `Demo`, `Proposal`, `Negotiation`) in real time to simulate revenue impact[cite: 14].
-* ** Predictive Forecasting & Analytics Suite:**
-  * **KPI Summary Cards:** Raw Open Pipeline, Weighted Forecast, Closed Won Revenue, and Win Rate[cite: 14].
-  * **Stage Funnel & Rep Leaderboard:** Interactive Chart.js bar and stacked charts[cite: 14].
-  * **60-to-90-Day Linear Regression Forecast:** Projects upcoming monthly revenue run-rate from historical closed-won trends[cite: 14].
-  * **Deal Aging Risk Matrix:** Scatter plot highlighting high-value deals stalled in the funnel[cite: 14].
-* ** Export & Briefing Tools:** Filterable Opportunity Deal Ledger, one-click CSV export of at-risk deals, and a print-ready executive briefing stylesheet[cite: 14].
+*  Multi-User Authentication & Session Persistence:** Split-screen Sign In / Sign Up portal with dynamic user profile personalization (displays logged-in user's full name, email, and avatar initials via `localStorage`)[cite: 14].
+*  Universal CSV Ingestion & Regex Schema Mapping:** Automatically parses and normalizes external CSV exports from **Salesforce**, **Maven Analytics**, and **Kaggle** using PapaParse and regular-expression column matching[cite: 14]. Includes a built-in **165-deal B2B enterprise dataset** for instant demonstration[cite: 14].
+*  AI Executive Insights Engine:** Automatically scans pipeline health to flag quota attainment pacing, high-value whale opportunities, and deals aging over 60 days[cite: 14].
+*  Interactive What-If Simulation Sliders:** Adjust conversion probabilities across funnel stages (`Qualification`, `Demo`, `Proposal`, `Negotiation`) in real time to simulate revenue impact[cite: 14].
+*  Predictive Forecasting & Analytics Suite:**
+  * KPI Summary Cards:** Raw Open Pipeline, Weighted Forecast, Closed Won Revenue, and Win Rate[cite: 14].
+  * Stage Funnel & Rep Leaderboard:** Interactive Chart.js bar and stacked charts[cite: 14].
+  * 60-to-90-Day Linear Regression Forecast:** Projects upcoming monthly revenue run-rate from historical closed-won trends[cite: 14].
+  * Deal Aging Risk Matrix:** Scatter plot highlighting high-value deals stalled in the funnel[cite: 14].
+*  Export & Briefing Tools:** Filterable Opportunity Deal Ledger, one-click CSV export of at-risk deals, and a print-ready executive briefing stylesheet[cite: 14].
 
 ---
 

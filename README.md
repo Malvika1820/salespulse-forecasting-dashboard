@@ -1,9 +1,9 @@
-# salespulse-forecasting-dashboard
+
 #  SalesPulse — Sales Forecasting & Pipeline Analytics Dashboard
 
 A full-featured, web-based **Sales Forecasting & Pipeline Analytics Dashboard** built for real-time revenue intelligence, funnel diagnostics, and interactive scenario modeling[cite: 14].
 
-🌐 **Live Demo:** `https://<your-username>.github.io/sales-forecasting-dashboard/`
+ **Live Demo:** `https://github.com/Malvika1820/salespulse-forecasting-dashboard/tree/main`
 
 ---
 
